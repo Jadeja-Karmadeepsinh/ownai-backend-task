@@ -8,6 +8,13 @@ const { registerValidationRules, loginValidationRules } = require('../validators
 const router = express.Router();
 
 // POST /api/auth/register
+
+router.get('/test', (req, res) => {
+  res.json({ authRoute: 'working' });
+});
+
+
+//above is for test
 router.post('/register', registerValidationRules, async (req, res) => {
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
