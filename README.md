@@ -186,3 +186,5 @@ npm test
 - Can be viewed using:
   - SQLiteStudio
   - VS Code SQLite extensions
+
+---
