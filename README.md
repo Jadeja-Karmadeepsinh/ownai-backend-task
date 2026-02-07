@@ -63,7 +63,7 @@ npm install
 ```
 
 ### Note:
-While installing dependencies, **`morgan` might not get installed**. This is expected — it’s my code, so yes, I know 😅
+While installing dependencies, **`morgan` might not get installed**. This is expected it’s my code, so yes, I know 😅
 so install it manully in your root folder
 
 ```bash
