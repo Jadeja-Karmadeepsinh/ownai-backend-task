@@ -1,4 +1,4 @@
-# Backend Assessment – User Management API
+# Backend Assessment User Management API
 
 This project is a **Node.js + Express backend** implementing authentication, role-based access control, and user management APIs using **SQLite** with **TypeORM**.  
 It is designed to meet typical backend assessment requirements with clean architecture, validation, and testing.
